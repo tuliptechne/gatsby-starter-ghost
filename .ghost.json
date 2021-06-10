@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://github.com/tuliptechne/ghostblog",
+    "apiUrl": "http://dazzling-golick-f1259f.netlify.app",
     "contentApiKey": "e0926779-b1bf-4cc3-bbf7-43ebcb80b15a"
   },
   "production": {
-    "apiUrl": "https://github.com/tuliptechne/ghostblog",
+    "apiUrl": "http://dazzling-golick-f1259f.netlify.app",
     "contentApiKey": "e0926779-b1bf-4cc3-bbf7-43ebcb80b15a"
   }
 }
